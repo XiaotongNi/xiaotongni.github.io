@@ -11,7 +11,7 @@ title:               Xiaotong Ni's Blog
 tagline:             'Placeholder'
 description:         'About quantum computing and machine learning'
 url:                 xiaotongni.github.io
-baseurl:             'https://xiaotongni.github.io/'
+baseurl:             'https://xiaotongni.github.io'
 paginate:            5
 
 # About/contact
